@@ -1,0 +1,15 @@
+.bor1{
+	background-color: #e71921; height: 50px; color: white; text-align: center;
+}
+
+.bor2{		
+	background-color: #f2d600; height: 50px; text-align: center;
+}
+
+.bor3{
+	background-color: #ff8000; height: 50px; text-align: center;
+}
+
+body{
+	background-color: #00a480;
+}
